@@ -10,7 +10,7 @@ run /dunkleit_projekt/src/de/hshannover/inform/dunkleit/gruppe12/mainmenu/MainMe
 
 ## Authors
 * **Me** - *Game The Snake* - [grambas](https://github.com/grambas/)
-* **Kai Diercke** - *Main Menu* - [iakd](https://github.com/iakd)
+* **Kai Dierschke** - *Main Menu* - [iakd](https://github.com/iakd)
 * **Kerim Jdiya** - *Music Loader*
 * **Andreas Holitschke** - *Image Loader* 
 
